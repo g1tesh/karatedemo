@@ -1,0 +1,3 @@
+18:40:44.073 skipping bootstrap configuration: could not find or read file: classpath:karate-config.js
+18:40:44.102 [print]
+18:40:44.113 [print] karate test
